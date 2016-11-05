@@ -1,1 +1,1 @@
-# CreateQuiz
+# CreateQuiz. JCaruso_CodeYourOwnQuiz.py submitted to Udacity several weeks ago; reviewer said "Functionality is great!" but asked that I redo the code to automate anything that's repeatable using functions. JCaruso_REDO_CodeAQuiz.py is my attempt so far to do so, but I am stuck, primarily on how to pass variables between functions, as indicated in some comments in the REDO file.
